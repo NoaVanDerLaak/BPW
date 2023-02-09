@@ -1,2 +1,0 @@
-# BPW
- School Project
